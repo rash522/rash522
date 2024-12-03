@@ -1,4 +1,10 @@
-## Hi there 👋
+- 👋 Hi, I’m Rash.
+- 👀 I’m interested in Software Development with DevOps and AI.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Open Source Projects and Tech Communities.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rash522).
+- 😄 Pronouns: He/Him ...
+- ⚡ It's me Rash522 ;)## Hi there 👋
 
 <!--
 **rash522/rash522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
